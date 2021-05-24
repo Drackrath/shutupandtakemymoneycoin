@@ -1,6 +1,6 @@
 # ShutUpAndTakeMyMoneyCoin Core [SUATC]
 
-![SUATMMCoin](https://64.media.tumblr.com/1477efc3857760447f4da4d7455003d9/545a8496fba4230e-59/s500x750/534cb22c2dcd3ecc2943f9625076206f1815f777.png)
+![SUATMMCoin](https://64.media.tumblr.com/c183a949395ed4852d19f997d582f2b8/545a8496fba4230e-b3/s500x750/7538c3f91d0de8dae047b7a647ba7a24096259bc.png)
 
 [![Build Status](https://travis-ci.com/dogecoin/dogecoin.svg?branch=master)](https://travis-ci.com/dogecoin/dogecoin)
 
